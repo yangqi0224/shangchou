@@ -9,5 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>shangchou-admin</module>
+        <module>shangchou-common-reverse</module>
+        <module>shangchou-common-util</module>
+    </modules>
 
 </project>
